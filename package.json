@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@graphql-tools/schema": "^8.2.0",
+    "@hapi/hapi": "^20.1.5",
+    "@sideway/address": "^4.1.2",
+    "axios": "^0.21.4",
+    "resolve-url": "^0.2.1",
+    "source-map-resolve": "^0.6.0",
+    "subscriptions-transport-ws": "^0.9.19",
+    "urix": "^0.1.0",
+    "uuid": "^8.3.2",
+    "uuidv4": "^6.2.12"
+  }
+}
